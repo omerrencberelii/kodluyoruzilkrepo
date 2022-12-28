@@ -26,4 +26,16 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 ---
-[MIT](https://choosealicense.com/licenses/mit/)
+These are the licenses\
+[MIT](https://choosealicense.com/licenses/mit/) 
+
+
+
+
+
+## Final headlines
+---
+1. The grass was greener
+3. The light was brighter
+2. When friends surrounded
+123. The nights of wonder
